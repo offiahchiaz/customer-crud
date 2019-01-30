@@ -1,34 +1,64 @@
 {
-    "customers": [
-        {
-            "id": "1", 
-            "name": "Okeke", 
-            "email": "okeke@gmail.com", 
-            "age": 35
-        },
-        {
-            "id": "2", 
-            "name": "Rex", 
-            "email": "rex@gmail.com", 
-            "age": 45
-        },
-        {
-            "id": "3", 
-            "name": "Max", 
-            "email": "max@gmail.com", 
-            "age": 18
-        },
-        {
-            "id": "4", 
-            "name": "Will", 
-            "email": "will@gmail.com", 
-            "age": 22
-        },
-        {
-            "id": "5", 
-            "name": "Flora", 
-            "email": "flora@gmail.com", 
-            "age": 28
-        }
-    ]
+  "customers": [
+    {
+      "id": "1",
+      "name": "Okeke",
+      "email": "okeke@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Rex",
+      "email": "rex@gmail.com",
+      "age": 45
+    },
+    {
+      "id": "3",
+      "name": "Max",
+      "email": "max@gmail.com",
+      "age": 18
+    },
+    {
+      "id": "4",
+      "name": "Will",
+      "email": "will@gmail.com",
+      "age": 22
+    },
+    {
+      "id": "5",
+      "name": "Flora",
+      "email": "flora@gmail.com",
+      "age": 28
+    },
+    {
+      "name": "Helen",
+      "email": "helen@yahoo.com",
+      "age": 23,
+      "id": "zjwY81k"
+    },
+    {
+      "name": "Helen",
+      "email": "helen@yahoo.com",
+      "age": 23,
+      "id": "fX7LnMe"
+    },
+    {
+      "name": "Helen",
+      "email": "helen@yahoo.com",
+      "age": 23,
+      "id": "GxVtBkO"
+    },
+    {
+      "name": "Hary white",
+      "email": "harry@gmail.com",
+      "age": 44,
+      "id": "C7W0oXM"
+    },
+    {
+      "name": "Ugoo",
+      "email": "ugo@gmail.com",
+      "age": 14,
+      "id": "js3dwt4"
+    }
+  ]
 }
